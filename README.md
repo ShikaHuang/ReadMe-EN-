@@ -2,8 +2,7 @@
 
 ![lilac](./LILAC.png)
 
-## Huang, Tzu-Chia / Shika, Huang
-
+## 
 - System Engineer
 - Traveler
 - Phtographer
@@ -28,7 +27,7 @@
 - GitHub
     - https://github.com/ShikaHuang
 - Instagram
-    -     
+    -
 
 ## 使用したことのある言語
 - Java     ★★★★☆
